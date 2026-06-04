@@ -1,0 +1,6 @@
+@ClinicMicroService.ApiGateway_HostAddress = http://localhost:5143
+
+GET {{ClinicMicroService.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
